@@ -1,0 +1,25 @@
+:root{
+    --fm-slate-300: hsl(212, 45%, 89%);
+    --fm-slate-500: hsl(216, 15%, 48%);
+    --fm-slate-900: hsl(218, 44%, 22%);
+}
+
+.page-bg{
+    background-color: var(--fm-slate-300);
+}
+
+.qr-card{
+    background-color: white;
+    width: 100%;
+    max-width: 20rem;
+}
+
+.qr-card h1{
+    color: var(--fm-slate-900);
+}
+
+.qr-card p{
+    color: var(--fm-slate-500);
+}
+
+
